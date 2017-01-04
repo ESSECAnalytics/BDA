@@ -1,13 +1,13 @@
 # Big Data Analytics
 
-> Professor: Nicolas Glady
+> Professor: Nicolas Glady  
 > Code: IDSS31165
 
 Welcome to the GitHub repository of the course _Big Data Analytics_ of the ESSEC and Accenture Strategic Business Analytics Chair.
 
 ### What the hell is GitHub?
 
-> GitHub is how people build software  
+> GitHub is how people build software.  
 -- GitHub
 
 > GitHub is a web-based Git repository hosting service. It offers all of the distributed version control and source code management (SCM) functionality of [Git]() as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project.  
