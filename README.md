@@ -51,7 +51,7 @@ It's simple.
 
 **BDA repository**  
 [Codes](https://github.com/ESSECAnalytics/BDA) - Nicolas's codes of the Big Data Analytics (BDA) course are available here.  
-[Discussion](https://github.com/ESSECAnalytics/BDA/issues) - Where you can discuss codes, ask for help and share your thoughts. When you open a new issue, you can add a label (at the right of the edit box) (_help_, _question_, _bug_, _tips_...). For past discussions see [here](https://www.reddit.com/r/ESSECAnalytics/new/) **Remember: you should not share the solution, only tips when answering other's question**.  
+[Discussion](https://github.com/ESSECAnalytics/BDA/issues) - Where you can discuss codes, ask for help and share your thoughts. When openning a new issue don't forget to add the label refering to the right Session (Session 1, Session 5, etc...), you can also add a label to make your question more precise (_help_, _question_, _bug_, _tips_...). To learn more about how to use this section, read the [Issues Tutorial](https://guides.github.com/features/issues/) (10min). For past discussions see [here](https://www.reddit.com/r/ESSECAnalytics/new/). **Remember: you should not share the solution, only tips when answering other's question**.  
 
 ## I mean... how to use GitHub in general o_O.
 
@@ -59,9 +59,12 @@ It's simple.
 
 ## Good. But it doesn't make sense to use GitHub without learning Git. Can I learn basic Git without wasting my all day?
 
+In order to use GitHub properly, you should follow this very simple tutorial. You will learn the basics of commit and branching. It takes 15min to complete.  
 [Simple and interactive Git tutorial for beginners (15min)](https://try.github.io/levels/1/challenges/1)  
 
 ## Not enough! I want to go further with Git / GitHub. Any tips?
+
+Working with GitHub means following a Git workflow. You can learn the Git Flow her[Git Flow](https://guides.github.com/introduction/flow/) (5min).  
 
 [Course Wiki](https://github.com/ESSECAnalytics/BDA/wiki/)  
 
