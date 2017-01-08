@@ -64,7 +64,7 @@ In order to use GitHub properly, you should follow this very simple tutorial. Yo
 
 ## Not enough! I want to go further with Git / GitHub. Any tips?
 
-Working with GitHub means following a Git workflow. You can learn the Git Flow her[Git Flow](https://guides.github.com/introduction/flow/) (5min).  
+Working with GitHub means following a Git workflow. You can learn the Git Flow here: [Git Flow](https://guides.github.com/introduction/flow/) (5min).  
 
 [Course Wiki](https://github.com/ESSECAnalytics/BDA/wiki/)  
 
