@@ -66,6 +66,6 @@ In order to use GitHub properly, you should follow this very simple tutorial. Yo
 
 Working with GitHub means following a Git workflow. You can learn the Git Flow here: [Git Flow](https://guides.github.com/introduction/flow/) (5min).  
 
-[Course Wiki](https://github.com/ESSECAnalytics/BDA/wiki/)  
+For further information, you can refer to the [Course Wiki](https://github.com/ESSECAnalytics/BDA/wiki/)  
 
 This wiki provides you with various ressources (mostly about R and Git/GitHub). Feel free to ask additional ressources in the [Discussion](https://github.com/ESSECAnalytics/BDA/issues) section of this repo.
